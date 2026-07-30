@@ -34,14 +34,14 @@ and **[agent-deck](https://github.com/asheshgoplani/agent-deck)**.
 
 ### Building
 
-**Spaze** is workspace discovery for remote work, from venue search to focus-oriented
+A **workspace discovery product** for remote work, from venue search to focus-oriented
 filtering. Node.js, Express, React Native, PostgreSQL, Google Places.
 
-**Guppy Dashboard** is an internal operations SaaS for a custom-merchandise company: pricing
-catalog, quote calculator, task boards, and an agentic chat assistant wired to 20+ tools.
-React, Firebase, Cloudflare Workers.
+An **internal operations SaaS** replacing ad-hoc manager requests with self-serve tooling:
+pricing catalog, quote calculator, task boards, and an agentic chat assistant wired to 20+
+tools. React, Firebase, Cloudflare Workers.
 
-**DeadGround** is a 2D co-op zombie-survival game on an authoritative Colyseus server with a
+**DeadGround**, a 2D co-op zombie-survival game on an authoritative Colyseus server with a
 PixiJS client. TypeScript.
 
 ---
