@@ -1,6 +1,6 @@
 # Yoan Wainmann 👋
 
-**Full-stack developer** · 📍 Tel Aviv
+**Full-stack developer & team lead** · 📍 Tel Aviv
 
 I ship production systems end-to-end (architecture, APIs, interfaces, delivery) across web,
 mobile, and digital signage running in the field. Terminal and AI tooling is what I build
@@ -41,7 +41,7 @@ playback control over adb. Python.
 
 ### Merged elsewhere
 
-🪟 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** (6.4k ⭐) · 🎫 **[jira-cli](https://github.com/ankitpokhrel/jira-cli)** (5.8k ⭐) · 🃏 **[agent-deck](https://github.com/asheshgoplani/agent-deck)**
+🪟 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** (7.0k ⭐) · 🎫 **[jira-cli](https://github.com/ankitpokhrel/jira-cli)** (5.9k ⭐) · 🃏 **[agent-deck](https://github.com/asheshgoplani/agent-deck)**
 
 ---
 
@@ -61,7 +61,7 @@ PixiJS client. TypeScript.
 
 ## 💼 Day job
 
-Full-stack developer at **Mreshet**, on a digital signage platform with 600 to 800 client
+Full-stack developer and team lead at **Mreshet**, on a digital signage platform with 600 to 800 client
 deployments. Built a token-authenticated, fully audited AI integration layer over a large
 legacy platform; a self-hosted generative-music pipeline shipped to web and Android; a
 from-scratch halachic prayer-time engine with multi-opinion zmanim for Israel and diaspora;
