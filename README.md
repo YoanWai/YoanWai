@@ -18,11 +18,11 @@ when the day job is done.
 
 ## 🛠 Open source
 
-### [agent-manager](https://github.com/YoanWai/agent-manager)
+### [agent-manager](https://github.com/wainmann/agent-manager)
 
-[![stars](https://img.shields.io/github/stars/YoanWai/agent-manager?style=flat&label=stars&color=1f6feb)](https://github.com/YoanWai/agent-manager/stargazers)
-[![release](https://img.shields.io/github/v/release/YoanWai/agent-manager?label=release&color=1f6feb)](https://github.com/YoanWai/agent-manager/releases/latest)
-[![Go](https://img.shields.io/github/go-mod/go-version/YoanWai/agent-manager?color=1f6feb)](https://github.com/YoanWai/agent-manager)
+[![stars](https://img.shields.io/github/stars/wainmann/agent-manager?style=flat&label=stars&color=1f6feb)](https://github.com/wainmann/agent-manager/stargazers)
+[![release](https://img.shields.io/github/v/release/wainmann/agent-manager?label=release&color=1f6feb)](https://github.com/wainmann/agent-manager/releases/latest)
+[![Go](https://img.shields.io/github/go-mod/go-version/wainmann/agent-manager?color=1f6feb)](https://github.com/wainmann/agent-manager)
 
 Claude Code, Codex, OpenCode and Grok side by side in one list, each in its own tmux session,
 still running after you quit. Live status, a foldable project tree, and a diff reviewer where
@@ -32,7 +32,7 @@ a comment on a line goes straight back to the agent.
 brew install yoanwai/tap/agent-manager
 ```
 
-[![agent-manager](https://raw.githubusercontent.com/YoanWai/agent-manager/main/docs/demo.gif)](https://github.com/YoanWai/agent-manager)
+[![agent-manager](https://raw.githubusercontent.com/wainmann/agent-manager/main/docs/demo.gif)](https://github.com/wainmann/agent-manager)
 
 ### [stremio-mcp](https://github.com/YoanWai/stremio-mcp)
 
