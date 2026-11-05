@@ -41,7 +41,7 @@ playback control over adb. Python.
 
 ### Merged elsewhere
 
-🪟 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** (7.0k ⭐) · 🎫 **[jira-cli](https://github.com/ankitpokhrel/jira-cli)** (5.9k ⭐) · 🃏 **[agent-deck](https://github.com/asheshgoplani/agent-deck)**
+🪟 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** (10,000+ ⭐) · 🎫 **[jira-cli](https://github.com/ankitpokhrel/jira-cli)** (6,000+ ⭐) · 🖥️ **[terminal-browser](https://github.com/zenbu-labs/terminal-browser)** (4,000+ ⭐) · 🃏 **[agent-deck](https://github.com/asheshgoplani/agent-deck)** (1,000+ ⭐)
 
 ---
 
